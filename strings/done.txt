@@ -1,0 +1,33 @@
+Return maximum occurring character in the input string
+Remove all duplicates from the input string.
+Print all the duplicates in the input string.
+Remove characters from the first string which are present in the second string
+A Program to check if strings are rotations of each other or not
+Print reverse of a string using recursion
+Divide a string in N equal parts
+Given a string, find its first non-repeating character
+Print list items containing all characters of a given word
+Reverse words in a given string
+Run Length Encoding
+Searching for Patterns | Set 1 (Naive Pattern Searching)
+Searching for Patterns | Set 3 (Rabin-Karp Algorithm)
+Searching for Patterns | Set 4 (A Naive Pattern Searching Question)
+Length of the longest substring without repeating characters
+Print all permutations with repetition of characters
+Print all interleavings of given two strings
+Check whether a given string is an interleaving of two other given strings
+Check whether two strings are anagram of each other
+Lexicographic rank of a string
+Print all possible words from phone digits
+Print all permutations in sorted (lexicographic) order
+Given a sequence of words, print all anagrams together | Set 1
+Write your own atoi()
+Count words in a given string
+String matching where one string contains wildcard characters
+Remove "b" and "ac" from a given string
+Find the first non-repeating character from a stream of characters
+Searching for Patterns | Set 2 (KMP Algorithm)
+Write a C program to print all permutations of a given string
+Longest Repeating Subsequence
+Given a string, print all possible palindromic partitions
+Transform One String to Another using Minimum Number of Given Operation

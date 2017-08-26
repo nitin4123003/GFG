@@ -1,0 +1,6 @@
+Memory efficient doubly linked list
+XOR Linked List - A Memory Efficient Doubly Linked List | Set 1
+ XOR Linked List - A Memory Efficient Doubly Linked List | Set 2
+Skip List | Set 1 (Introduction)
+Self Organizing List | Set 1 (Introduction)
+Trie | (Insert and Search)

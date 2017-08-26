@@ -1,0 +1,4 @@
+Find minimum number of coins that make a given value
+Find the number of islands
+Find the largest rectangle of 1’s with swapping of columns allowed
+http://stackoverflow.com/questions/29376069/lexographically-smallest-path-in-a-nm-grid  

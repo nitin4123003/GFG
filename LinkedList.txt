@@ -1,0 +1,34 @@
+Introduction to Linked List
+Linked List vs Array
+Linked List Insertion
+Linked List Deletion
+How to write C functions that modify head pointer of a Linked List?
+Write a function to get Nth node in a Linked List
+Given only a pointer to a node to be deleted in a singly linked list, how do you delete it?
+Write a C function to print the middle of a given linked list
+Nth node from the end of a Linked List
+Write a function to delete a Linked List
+Write a function that counts the number of times a given int occurs in a Linked List
+Write a function to reverse a linked list
+Function to check if a singly linked list is palindrome
+Given a linked list which is sorted, how will you insert in sorted way
+Write a function to get the intersection point of two Linked Lists.
+Write a recursive function to print reverse of a Linked List
+Remove duplicates from a sorted linked list
+Pairwise swap elements of a given linked list
+Move last element to front of a given Linked List
+Intersection of two Sorted Linked Lists
+Remove duplicates from an unsorted linked list
+Detect and Remove Loop in a Linked List
+Identical Linked Lists
+Merge two sorted linked lists
+Reverse a Linked List in groups of given size
+Reverse alternate K nodes in a Singly Linked List
+Delete nodes which have a greater value on right side
+Write a C function to detect loop in a linked list
+Add two numbers represented by linked lists | Set 1
+Union and Intersection of two Linked Lists
+Find a triplet from three linked lists with sum equal to a given number
+Sort a linked list of 0s, 1s and 2s
+Merge a linked list into another linked list at alternate positions
+Segregate even and odd nodes in a Linked List

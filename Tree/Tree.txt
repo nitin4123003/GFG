@@ -1,0 +1,16 @@
+Tree Traversals
+Write a C program to Calculate Size of a tree
+Write C Code to Determine if Two Trees are Identical
+Write a C Program to Find the Maximum Depth or Height of a Tree
+Write a C program to Delete a Tree.
+Applications of tree data structure
+Write an Efficient C Function to Convert a Binary Tree into its Mirror Tree
+If you are given two traversal sequences, can you construct the binary tree?
+Given a binary tree, print out all of its root-to-leaf paths one per line.
+Level Order Tree Traversal
+Program to count leaf nodes in a binary tree
+Check for Children Sum Property in a Binary Tree.
+How to determine if a binary tree is height-balanced?
+Check if a given Binary Tree is SumTree
+Double Tree
+Level order traversal in spiral form

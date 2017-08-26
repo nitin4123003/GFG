@@ -1,0 +1,117 @@
+Find the minimum element in a sorted and rotated array
+Find the maximum repeating number in O(n) time and O(1) extra space
+Majority Element
+Given an array A[] and a number x, check for pair in A[] with sum as x
+Two elements whose sum is closest to zeroz
+Write a program to reverse an array
+Find the Number Occurring Odd Number of Times
+Find the Missing Number
+Find the number of islands
+Count the number of possible triangles
+Find a pair with the given difference
+Leaders in an array
+Replace every element with the next greatest
+Find the row with maximum number of 1s
+Find the two numbers with odd occurrences in an unsorted array
+Find the smallest positive number missing from an unsorted array
+Find the two numbers with odd occurrences in an unsorted array
+Find the smallest positive number missing from an unsorted array
+Find a triplet that sum to a given value
+A Boolean Matrix Question
+Find the minimum distance between two numbers
+Find the repeating and the missing | Added 3 new methods
+Find the minimum distance between two numbers
+Interpolation Search
+Find whether an array is subset of another array | Added Method 3
+Count the number of occurrences in a sorted array
+Find the smallest missing number
+Linked List vs Array
+Segregate 0s and 1s in an array
+Find the smallest and second smallest element in an array
+Check for Majority Element in a sorted array
+Union and Intersection of two sorted arrays
+Segregate Even and Odd numbers
+Sort elements by frequency | Set 1
+Search an element in a sorted and pivoted array
+Write a program to reverse an array
+Rearrange positive and negative numbers in O(n) time and O(1) extra space
+Move all zeroes to end of array
+Count all distinct pairs with difference equal to k
+Find a peak element
+Counting Sort
+Arrange given numbers to form the biggest number
+Find four elements that sum to a given value | Set 1 (n^3 solution)
+Find four elements that sum to a given value | Set 2 ( O(n^2Logn) Solution)
+Find position of the only set bit
+Swap all odd and even bits
+Add two bit strings
+Divide and Conquer | Set 4 (Karatsuba algorithm for fast multiplication)
+Binary representation of a given number
+Find the Number Occurring Odd Number of Times
+Write one line C function to find whether a no is power of two
+Position of rightmost set bit
+Merge an array of size n into another array of size m+n
+Maximum sum such that no two elements are adjacent
+A Product Array Puzzle
+Floor and Ceiling in a sorted array
+Two elements whose sum is closest to zero
+Given an array arr[], find the maximum j - i such that arr[j] > arr[i]
+Check if array elements are consecutive | Added Method 3
+Search in a row wise and column wise sorted matrix
+Turn an image by 90 degree
+Equilibrium index of an array
+Find duplicates in O(n) time and O(1) extra space
+Find the two repeating elements in a given array
+Find the Minimum length Unsorted Subarray, sorting which makes the complete array sorted
+Maximum and minimum of an array using minimum number of comparisons
+k largest(or smallest) elements in an array | added Min Heap method
+Maximum difference between two elements such that larger element appears after the smaller number
+Implement two stacks in an array
+Find the maximum element in an array which is first increasing and then decreasing
+Find subarray with given sum
+Rearrange an array so that arr[i] becomes arr[arr[i]] with O(1) extra space
+Find k closest elements to a given value
+Create a matrix with alternating rectangles of O and X
+Smallest subarray with sum greater than a given value
+Bucket Sort
+Find the number of zeroes
+Find if there is a subarray with 0 sum
+Count all possible groups of size 2 or 3 that have sum as multiple of 3
+Radix Sort
+Print all possible combinations of r elements in a given array of size n
+Find number of pairs such that x^y > y^x
+Stable Marriage Problem
+Find the point where a monotonically increasing function becomes positive first time
+Given an array of of size n and a number k, find all elements that appear more than n/k times
+Search an element in an array where difference between adjacent elements is 1
+Rotate Matrix Elements
+Find the odd appearing element in O(Log n) time
+Find sum of all elements in a matrix except the elements in row and/or column of given cell?
+Find the element that appears once in a sorted array
+Find a pair with maximum product in array of Integers
+Find the point where maximum intervals overlap
+Count number of binary strings without consecutive 1's
+Remove minimum elements from either side such that 2*min becomes more than max
+Divide and Conquer | Set 6 (Search in a Row-wise and Column-wise Sorted 2D Array)
+Kth smallest element in a row-wise and column-wise sorted 2D array | Set 1
+Count all possible paths from top left to bottom right of a mXn matrix
+Find the Increasing subsequence of length three with maximum product
+Merge k sorted arrays | Set 1
+Stock Buy Sell to Maximize Profit
+Merge Overlapping Intervals
+Divide and Conquer | Set 3 (Maximum Subarray Sum)
+Print Matrix Diagonally
+Find the first circular tour that visits all petrol pumps
+Largest Sum Contiguous Subarray
+Program for array rotation
+Reversal algorithm for array rotation
+Maximum size square sub-matrix with all 1s
+Sort an array of 0s, 1s and 2s
+Maximum Length Bitonic Subarray
+Find a Fixed Point in a given array
+Print a given matrix in spiral form
+Dynamic Programming | Set 18 (Partition problem)
+Shuffle a given array
+Dynamic Programming | Set 6 (Min Cost Path)
+Write a C program to calculate pow(x,n)
+Transform One String to Another using Minimum Number of Given Operation

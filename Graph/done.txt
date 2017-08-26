@@ -1,0 +1,11 @@
+Graph and its representations
+Breadth First Traversal for a Graph
+Depth First Traversal for a Graph
+Detect Cycle in a Directed Graph
+Union-Find Algorithm | Set 1 (Detect Cycle in a an Undirected Graph)
+Check whether a given graph is Bipartite or not
+Greedy Algorithms | Set 2 (Kruskal's Minimum Spanning Tree Algorithm)
+Union-Find Algorithm | Set 2 (Union By Rank and Path Compression)
+Greedy Algorithms | Set 5 (Prim's Minimum Spanning Tree (MST))
+Applications of Minimum Spanning Tree Problem
+Greedy Algorithms | Set 7 (Dijkstra's shortest path algorithm)
