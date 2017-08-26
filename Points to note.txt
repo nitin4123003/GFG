@@ -1,0 +1,20 @@
+1:arr[mid]<arr[low] when pivot is to the left of middle lement in array
+and arr[mid]>arr[low] when pivot is to the left of middle element.
+
+2:how do we return multiple values from a C function? We can do it either using structures or pointers.
+
+3:Gajab Recursion:Print nth node from the end in LL
+void printNthFromLast(struct node* head, int n) 
+{
+    static int i = 0;
+    if(head == NULL)
+       return;
+    printNthFromLast(head->next, n);
+    if(++i == n)
+       printf("%d", head->data);
+}
+
+4:Given an array of size n, find all elements in array that appear more than n/k times. For example, if the input arrays is {3, 1, 2, 2, 1, 2, 3, 3} and k is 4, then the output should be [2, 3]. Note that size of array is 8 (or n = 8), so we need to find all elements that appear more than 2 (or 8/4) times. There are two elements that appear more than two times, 2 and 3.
+We can solve the above problem in O(nk) time using O(k-1) extra space. Note that there can never be more than k-1 elements in output (Why?). 
+because lets consider there are k elements such that they have count greater than n/k.
+then n/k *k=n(which is the size of array itself).then where are the rest of the elements???
